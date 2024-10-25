@@ -30,7 +30,3 @@ This Java-based client-server application allows real-time messaging and file sh
    java Client
    ```
 5. When prompted, enter the server's IP address and port number (e.g., `localhost` and `12345` if running locally).
-
---- 
-
-This README provides a high-level overview and basic instructions for running the application. Let me know if you'd like to add any other details!
